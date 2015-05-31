@@ -1,0 +1,8 @@
+/bin/
+.classpath
+.project
+build
+build.properties
+build.xml
+dist/
+sysProps.xml
